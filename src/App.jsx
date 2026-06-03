@@ -12,7 +12,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src={dalstonImg} className="base" width="200" height="200" alt="" />
+          <img src={dalstonImg} className="base" width="400" height="270" alt="" />
         </div>
         <div>
           <h1>dalston.guide</h1>
