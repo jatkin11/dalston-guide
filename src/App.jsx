@@ -12,9 +12,7 @@ function App() {
     <>
       <section id="center">
         <div className="hero">
-          <img src={dalstonImg} className="base" width="170" height="179" alt="" />
-          <img src={reactLogo} className="framework" alt="React logo" />
-          <img src={viteLogo} className="vite" alt="Vite logo" />
+          <img src={dalstonImg} className="base" width="200" height="200" alt="" />
         </div>
         <div>
           <h1>dalston.guide</h1>
