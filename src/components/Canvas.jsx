@@ -19,7 +19,7 @@ export default function Canvas() {
   useEffect(() =>{
     refreshArrivals();
 
-    const intervalId = setInterval(()=>{refreshArrivals();},30000);
+    const intervalId = setInterval(()=>{refreshArrivals();},10000);
 
     return () => clearInterval(intervalId);
 
